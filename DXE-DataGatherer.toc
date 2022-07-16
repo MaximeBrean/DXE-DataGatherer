@@ -1,0 +1,7 @@
+## Interface: %WOW_VERSION%
+## Title: DXE-DataGatherer
+## Notes: DXE-DataGatherer
+## Author: Campbellyti
+## SavedVariables: dxe_data_gatherer
+
+data_gatherer.lua
